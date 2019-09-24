@@ -1,0 +1,45 @@
+.carousel-control-prev, .carousel-control-next {
+	color: aqua;
+}
+
+.carousel-control-prev-icon {
+	color: aqua;
+}
+
+body {
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+.bg-dark {
+	background-color:rgba(78, 78, 78, 0.68) !important;
+}
+
+.navbar-dark .navbar-brand {
+	color: #71b787;
+
+}
+
+.navbar-dark .navbar-brand:hover {
+	color: bisque;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+	text-transform: uppercase;
+	color: #e6e6e6;
+	letter-spacing: 0.08em;
+}
+
+.food {
+	background-image: url(../img/BL8A3052.jpg);
+	background-attachment: fixed;
+	background-position: center;
+	background-size:cover;
+	background-repeat: no-repeat;
+}
+
+.food h1 {
+	background: rgba(255, 255, 255, 0.56);
+	font-size: 6em;
+	text-align: center;
+	margin: 2em;
+}
